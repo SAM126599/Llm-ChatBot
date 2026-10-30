@@ -358,7 +358,7 @@ This project demonstrates practical knowledge of:
 
 Engineering Student | AI & Machine Learning Enthusiast
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/SAM126599
 
 ## 📄 License
 
